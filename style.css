@@ -44,6 +44,15 @@ cite {
     text-align: right;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
 .body_hero, .body_info, .body_quote {
     height: 350px;
 }
