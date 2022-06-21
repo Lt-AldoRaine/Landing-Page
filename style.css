@@ -45,7 +45,7 @@ cite {
 }
 
 .body_hero, .body_info, .body_quote {
-    height: 350px
+    height: 350px;
 }
 
 .secondary, .links {
@@ -168,4 +168,21 @@ cite {
 
 }
 
+.body_call {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call_to_action {
+    background-color: #3882F6;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    display: flex;
+    
+}
 
